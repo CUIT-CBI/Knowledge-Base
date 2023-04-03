@@ -1,0 +1,1 @@
+# Solidity状态变量（constant、immutable）

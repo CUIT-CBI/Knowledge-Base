@@ -1,0 +1,1 @@
+# SIGNHASH类型

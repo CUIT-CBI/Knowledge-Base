@@ -1,0 +1,1 @@
+# Solidity存储类型（memory、storage、calldata）

@@ -1,0 +1,1 @@
+# Solidity构造器constructor

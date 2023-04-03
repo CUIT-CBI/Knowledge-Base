@@ -1,0 +1,1 @@
+# Solidity源文件结构（SPDX版权许可证、Pragma、版本标识）
